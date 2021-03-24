@@ -1,0 +1,57 @@
+.form
+{
+	border:1px solid green;
+	margin: auto;
+	width: 25rem;
+}
+.comp
+{
+	margin-left: 45px;
+}
+h1
+{
+	color: blue;
+	text-align: center;
+	margin-top: 15px;
+}
+input
+{
+	margin: 20px;
+	width: 100px;
+	border: 1px solid blue;
+	outline: none;
+	border-radius: 4px;
+	height: 18px;
+}
+input[type="text"]
+{
+	font-size:17px;
+	padding:5px;
+}
+select
+{
+	height: 30px;
+	font-size: 17px;
+	border: 1px solid green;
+	margin: 20px;
+	width: 100px;
+	outline: none;
+	border-radius: 4px;
+}
+button
+{
+	padding: 12px 23px;
+	border: none;
+	outline: none;
+	font-size: 17px;
+	color:white;
+	background-color: blue;
+	margin: auto;
+	display: block;
+	margin-bottom: 5px;
+}
+h3
+{
+	text-align: center;
+	color:red;
+}
