@@ -116,7 +116,7 @@ function FormComponent(props)
   };
 	return (
    <div data-test="component-form" className='form'>
-	  <h1 data-test="component-heading"> Conversion App </h1>
+	  <h1 data-test="component-heading"> Conversion Application </h1>
 	  <form onSubmit={handleSubmit}>
       <div className='comp'>
         <input type="text" id="i1" onChange={handleInput} disabled={disable1} value={inpval1} />
